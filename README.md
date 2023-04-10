@@ -27,4 +27,5 @@ It then generates a random string of the size that is specified in Message Size 
 Then each thread connects to the server with the port they're assigned through UDP Protocol.<br />
 And finally sends the random string to the server through the socket created.<br /><br />
 
-Note: As this Program is written in Python which is run through an Interpreter, it would be slow and hence won't be that much effective. To make this more efficient, we can use some tools like auto-py-to-exe to convert the '.py' file to '.exe' file.
+### Note
+As this Program is written in Python which is run through an Interpreter, it would be slow and hence won't be that much effective. To make this more efficient, we can use some tools like auto-py-to-exe to convert the '.py' file to '.exe' file.
