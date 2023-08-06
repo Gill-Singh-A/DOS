@@ -1,4 +1,4 @@
-import socket, threading, random, time, string, tkinter
+import socket, threading, random, time, string
 from optparse import OptionParser
 from colorama import Fore, Back, Style
 from datetime import date
